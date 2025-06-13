@@ -1,0 +1,4 @@
+kind: wasmer.io/App.v0
+name: php_api
+owner: georgemichaelopio
+package: .
